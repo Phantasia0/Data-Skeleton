@@ -1,0 +1,9 @@
+INSERT INTO "ThreadCategories" ("Name", "Description") VALUES ('Programming', '');
+
+INSERT INTO "ThreadCategories"("Name", "Description") VALUES ('Cooking', '');
+
+INSERT INTO "ThreadCategories"("Name", "Description") VALUES ('Gaming', '');
+
+INSERT INTO "ThreadCategories"("Name", "Description") VALUES ('Finance', '');
+
+INSERT INTO "ThreadCategories"("Name", "Description") VALUES ('Travel', '');
